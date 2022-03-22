@@ -8,7 +8,7 @@
 
 
 #### 🦁0322 first session
-> 📌github repo 만들기
-> 📌issue 등록하기
-> 📌github profile 만들기
+> 📌github repo 만들기 </br>
+> 📌issue 등록하기</br>
+> 📌github profile 만들기</br>
 > 📌MarkDown 언어 배우기

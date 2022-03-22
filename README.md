@@ -1,10 +1,10 @@
 # CodeLionRepo
 
-#### About 👩🏻‍💻Lim YeRam
-##### `SCHOOL` 🏫Hankuk University of Foreign Studies
-##### `FIRST MAJOR` 🇨🇳Department of Translation and Interpretation of Chinese 
-##### `SECOND MAJOR` 💶Department of International Economics & Law
-##### `LIKE LION` 🦁10th member
+### About 👩🏻‍💻Lim YeRam
+#### `SCHOOL` 🏫Hankuk University of Foreign Studies
+#### `FIRST MAJOR` 🇨🇳Department of Translation and Interpretation of Chinese 
+#### `SECOND MAJOR` 💶Department of International Economics & Law
+#### `LIKE LION` 🦁10th member
 
 
 #### 🦁0322 first session

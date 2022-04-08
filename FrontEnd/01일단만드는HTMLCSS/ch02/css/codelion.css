@@ -1,14 +1,20 @@
-footer {
-    text-align: center;
-    background-color: #1e1e1e;
-    color: #919191;
-    font-size: 12px;
+.name-text {
+    font-size: 17px;
+    color: #7c7c7c;
+    font-weight: bold;
 }
-
 .mainbox{
     border: 1px solid #ebebeb;
     width: 610px;
     text-align: right;
     padding: 30px;
     margin: 0 auto;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+}
+footer {
+    text-align: center;
+    background-color: #1e1e1e;
+    color: #919191;
+    font-size: 12px;
+    padding: 20px;
 }

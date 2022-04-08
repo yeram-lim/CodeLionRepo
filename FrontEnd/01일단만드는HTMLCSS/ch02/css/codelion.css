@@ -53,6 +53,10 @@ footer {
     color: #919191;
 }
 
+.float-wrap {
+    overflow: hidden;
+}
+
 section {
     margin-bottom: 24px;
 }
@@ -82,4 +86,10 @@ section {
     color: #282828;
     text-align: right;
     float: right;
+}
+
+.desc-text{
+    font-size: 9px;
+    color: #282828;
+    padding-left: 16px;
 }

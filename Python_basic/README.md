@@ -9,3 +9,7 @@
 2. 반복문
 - `for`
 - `while`
+
+3. 자료형
+- `list`
+- `dictionary`

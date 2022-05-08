@@ -5,6 +5,7 @@
 1. 함수
 - `random`
 - `time`
+- `set`
 
 2. 반복문
 - `for`
@@ -13,3 +14,6 @@
 3. 자료형
 - `list`
 - `dictionary`
+
+4. 조건문
+- `if ... else`

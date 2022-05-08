@@ -1,17 +1,10 @@
-foods = ['된장찌개', '피자', '제육볶음']
+import random
 
-for x in range(3):
-    print(foods[x])
+food = random.choice(['된장찌개', '피자', '제육볶음'])
 
-for x in foods:
-    print(x)
-
-information = {
-    '고향': '서울',
-    '취미': '영화 관람',
-    '좋아하는 음식': '떡볶이'
-}
-
-for x, y in information.items():
-    print(x)
-    print(y)
+print(food)
+if(food == '제육볶음'):
+    print('곱배기 주세요')
+else:
+    print('그냥 주세요')
+print('종료')

@@ -10,6 +10,6 @@ while True:
 for i in total_list:
     print(i)
     answer = input("답변을 입력해주세요 : ")
-    total_list[i] = answer
+    i['답변'] = answer
 
 print(total_list)

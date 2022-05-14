@@ -17,5 +17,8 @@
 - `loads` 함수: `python`의 `dict`와 비슷한 형태이다.
 
 ### 번역하기
-1. `googletrans`
+1. `googletrans` 모듈
 - `Translator` 클래스: `translate`와 `detect` 함수
+
+### 메일보내기
+1.`smtplib` 모듈

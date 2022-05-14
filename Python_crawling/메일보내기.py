@@ -13,5 +13,5 @@ message["To"] = "###@gmail.com"
 
 smtp = smtplib.SMTP_SSL(SMTP_SERVER,SMTP_PORT)
 smtp.login("###@gmail.com","######")
-smtp.send_message()
+smtp.send_message(message)
 smtp.quit()

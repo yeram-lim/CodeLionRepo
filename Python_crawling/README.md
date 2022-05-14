@@ -22,7 +22,10 @@
 
 ### 메일보내기
 1.`smtplib` 모듈
-- send_message 함수
+- `login` 함수
+- `send_message` 함수
+- `quit` 함수
 
 2. `email`
-- `EmailMessage` 클래스: 이메일 내용을 담는 `set_content` 함수
+- `EmailMessage` 클래스: 우리가 작성하고 싶은 이메일 내용을 MIME 타입으로 변경
+- 이메일 내용을 담는 `set_content` 함수

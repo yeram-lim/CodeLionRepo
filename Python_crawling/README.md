@@ -18,4 +18,4 @@
 
 ### 번역하기
 1. `googletrans`
-- `Translator` 함수
+- `Translator` 클래스: `translate`와 `detect` 함수

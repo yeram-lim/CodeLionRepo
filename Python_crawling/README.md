@@ -29,3 +29,6 @@
 2. `email`
 - `EmailMessage` 클래스: 우리가 작성하고 싶은 이메일 내용을 MIME 타입으로 변경
 - 이메일 내용을 담는 `set_content` 함수
+
+
+- 텍스트가 아닌 다른 내용을 메일에 담고 싶을 때 사용하는 `add_attachment` 함수

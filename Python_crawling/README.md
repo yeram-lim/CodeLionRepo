@@ -10,3 +10,8 @@
 
 2. bs4 모듈
 - BeautifulSoup 함수
+
+
+### 날씨 정보 받아오기
+1. json 모듈
+- loads 함수

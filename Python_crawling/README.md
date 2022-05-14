@@ -25,4 +25,4 @@
 - send_message 함수
 
 2. `email`
-- `EmailMessage` 클래스
+- `EmailMessage` 클래스: 이메일 내용을 담는 `set_content` 함수

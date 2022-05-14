@@ -15,3 +15,7 @@
 ### 날씨 정보 받아오기
 1. json 모듈
 - `loads` 함수: `python`의 `dict`와 비슷한 형태이다.
+
+### 번역하기
+1. `googletrans`
+- `Translator` 함수

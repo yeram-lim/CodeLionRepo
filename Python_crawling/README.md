@@ -22,3 +22,4 @@
 
 ### 메일보내기
 1.`smtplib` 모듈
+- send_message 함수

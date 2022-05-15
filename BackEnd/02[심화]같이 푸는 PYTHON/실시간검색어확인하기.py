@@ -17,3 +17,13 @@ for result in results:
     search_rank_file.write(str(rank)+"위:"+result.get_text()+"\n")
     print(rank,"위 : ",result.get_text(),"\n")
     rank += 1
+
+# chulsu의 소속을 출력해주세요.
+print(chulsu['소속'])
+
+# chulsu가 두 번째로 좋아하는 음식의 이름을 출력해주세요.
+print(chulsu['좋아하는 음식'][1]['이름'])
+# chulsu의 성별을 출력해주세요.
+print(chulsu['상세']['성별'])
+# chulsu의 키를 출력해주세요.
+print(chulsu['신체 정보']['키'])

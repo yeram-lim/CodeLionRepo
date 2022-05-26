@@ -81,3 +81,6 @@ const me = {
 const { militaryState, ...another } = me; 
 ```
 - `...` 을 사용해 요소가 제외된 객체나 리스트를 출력한다.
+
+## CH04
+#### MBTI 테스트를 만들어보장

@@ -55,3 +55,17 @@ fetch('url')
 4. 논리 연산자 심화
 - && and
 - || or
+
+#### Spread
+```
+const me = {
+    name: '임예람',
+    age: 24,
+};
+
+const militaryMe = {
+    ...me,
+    militaryState: false,
+}
+```
+- `...` 을 사용해 객체나 리스트를 복제한다.

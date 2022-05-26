@@ -1,6 +1,11 @@
-const input = prompt();
-if (input === '') {
-    console.log('입력값이 없습니다.');
-} else {
-    console.log(input);
+const me = {
+    name: '임예람',
+    age: 24,
+};
+
+const militaryMe = {
+    ...me,
+    militaryState: false,
 }
+
+console.log(militaryMe);

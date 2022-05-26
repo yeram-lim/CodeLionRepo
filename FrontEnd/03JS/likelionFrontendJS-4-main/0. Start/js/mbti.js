@@ -47,9 +47,9 @@ function addAnswer(answerText,qIdx,idx){
 
 function calResult(){
     var result = select.indexOf(Math.max(...select));
-    return result;
-}
+    return result; 
 
+}
 function setResult(){
     let point = calResult();
     

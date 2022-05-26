@@ -84,3 +84,15 @@ const { militaryState, ...another } = me;
 
 ## CH04
 #### MBTI 테스트를 만들어보장
+
+## CH05
+#### REST API
+- GET, POST등의 메서드를 이용해 백엔드와 자원을 주고 받는다.
+- 자원은 주로 `XML`과 `JSON` 형식으로 주고 받는다.
+
+1. Fetch
+- REST API를 손쉽게 활용할 수 있게 해주는 JS의 내장 라이브러리이다. 일부 기능이 부족하다.
+
+2. Axios
+- 외부 라이브러리 모듈 설치가 필요하다. Fetch에 비해 다양한 기능이 존재한다.
+

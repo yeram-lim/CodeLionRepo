@@ -69,3 +69,15 @@ const militaryMe = {
 }
 ```
 - `...` 을 사용해 객체나 리스트를 복제한다.
+
+#### Rest
+```
+const me = {
+    name: '임예람',
+    age: 24,
+    militaryState: false,
+};
+
+const { militaryState, ...another } = me; 
+```
+- `...` 을 사용해 요소가 제외된 객체나 리스트를 출력한다.

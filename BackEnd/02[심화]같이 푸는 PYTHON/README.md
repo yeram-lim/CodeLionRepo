@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77733145/171085718-51b51b45-e23a-4049-81ff-058e1460f163.png)
+
 ### 실시간 검색어 확인하기
 
 1. `request` 모듈
